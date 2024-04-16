@@ -10,7 +10,7 @@ const newStr = new String("String using new keyword")
 
 // In second syntax of declaring strings, an object of String class is created with value provided in parenthesis.
 // This syntax stores each character as a key-value pair, means the position of character will be key and the character is value itself.
-/*********************REMEMBER: The strings are stored as object not as array.****************/
+/************** REMEMBER: The strings are stored as object not as array. ***************/
 
 // We can have many methods on strings.
 
